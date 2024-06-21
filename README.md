@@ -47,8 +47,7 @@ The React Admin Dashboard App is a versatile web application designed for admini
 - **Theme Settings**: Users can change the theme color and toggle dark mode to personalize their experience.
 
 ## Preview
-
-
+[Live Demo](https://reactdashboard-app.netlify.app/)
 ## Technologies Used
 
 The React Admin Dashboard App leverages the following technologies and libraries:
