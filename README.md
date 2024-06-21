@@ -1,4 +1,4 @@
-# Dashboard-App 📊
+# Dashboard-App 📈
 
 Welcome to the Dashboard App, a powerful web application with advanced features such as theming, data tables, charts, calendar, and kanban board. This README provides an in-depth overview of the project, its features, technologies used, and how to get started.
 
@@ -21,7 +21,7 @@ The React Admin Dashboard App is a versatile web application designed for admini
 ### Navigation 🧭
 - **Sidebar Menu**: A sidebar menu offers quick access to various sections and tools of the application.
 
-### Dashboard 📊
+### Dashboard 📈
 - **Ecommerce Dashboard**: The default landing page displays an ecommerce dashboard with essential information and statistics.
 
 ### Pages 🗐
